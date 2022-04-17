@@ -9,7 +9,6 @@
     <br />
     <br />
   </p>
-</p>
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
