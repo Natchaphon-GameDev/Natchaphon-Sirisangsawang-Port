@@ -4,7 +4,7 @@
   <h1 align="center">Developer's Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
+    It is a Natchaphon Sirisangsawang website/portfolio template by Hashir Shoaib / Demo: 
     <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
     <br />
     <br />
