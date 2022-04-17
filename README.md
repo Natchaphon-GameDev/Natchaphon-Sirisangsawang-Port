@@ -1,18 +1,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Natchaphon Sirisangsawang's Portfolio ✨</h1>
+  <h1 align="center">Natchaphon Sirisangsawang's Portfolio || Template by hashirshoaeb✨</h1>
 
   <p align="center">
     Natchaphon Sirisangsawang website/portfolio / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
 ## TABLE OF CONTENT
 
