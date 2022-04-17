@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Natchaphon Sirisangsawang's Portfolio || Template by hashirshoaeb✨</h1>
+  <h1 align="center">Natchaphon Sirisangsawang's Portfolio</h1>
 
   <p align="center">
     Natchaphon Sirisangsawang website/portfolio / Demo: 
-    <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio</a>
+    <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio || Template by hashirshoaeb✨</a>
     <br />
     <br />
   </p>
@@ -70,20 +70,20 @@
 
 
 ## SKILL 📖
-- ####C# ============ Good
-- ####Java =========== Medium
-- ####Firebase ======== Medium
-- ####Python ========= Basic
-- ####Database SQL ==== Medium
-- ####Unity =========== Good
-- ####Game Design ==== Good
-- ####Maya =========== Medium
-- ####Multiplayer ====== Good
+### C# ============ Good
+#### Java =========== Medium
+#### Firebase ======== Medium
+#### Python ========= Basic
+#### Database SQL ==== Medium
+#### Unity =========== Good
+#### Game Design ==== Good
+#### Maya =========== Medium
+#### Multiplayer ====== Good
 
 
 ## LANGUAGES 🔡
-- ####Thai ============ Native
-- ####English ========== Good
+#### Thai ============ Native
+#### English ========== Good
 
 
 ## MY GAME SHOWCASE 🎮
