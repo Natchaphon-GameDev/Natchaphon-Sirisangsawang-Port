@@ -22,19 +22,19 @@
 
 ## ABOUT ME 👨‍💻
 
-- ###PERSONAL INFORMATION
+- ### PERSONAL INFORMATION
   - Name | Natchaphon Sirisangsawang
   - NickName | Pruek (พฤกษ)
   - BirthDate | July 6, 2000
   - Nationality | Thai
 
 
-- ###MY OBJECTIVE
+- ### MY OBJECTIVE
   - To get more experience and technic in Game Development.
   - To make relationships with other people in the game development community.
 
 
-- ###STRENGTHS 
+- ### STRENGTHS 
   - Fast-Learner 
   - Detail-oriented
   - Collaboration
@@ -49,20 +49,20 @@
 
 ## EDUCATION 🎓
 
-- ###HIGH SCHOOL
+- ### HIGH SCHOOL
 
 
-    # Year 2013 - 2019
+    ## Year 2013 - 2019
     - SUANKULARB WITTAYALAI RANGSIT SCHOOL | THAILAND
     Eng - Math 
 
     * GPA : 3.64
 
-- ###BACHELOR'S DEGREE
+- ### BACHELOR'S DEGREE
 
 
     
-    # Year 2019 - 2022
+    ## Year 2019 - 2022
     - BANGKOK UNIVERSITY | THAILAND
     - GAME AND INTERACTIVE MEDIA
 
@@ -70,20 +70,20 @@
 
 
 ## SKILL 📖
-### C# ============ Good
-#### Java =========== Medium
-#### Firebase ======== Medium
-#### Python ========= Basic
-#### Database SQL ==== Medium
-#### Unity =========== Good
-#### Game Design ==== Good
-#### Maya =========== Medium
-#### Multiplayer ====== Good
+- #### C# ============ Good
+- #### Java =========== Medium
+- #### Firebase ======== Medium
+- #### Python ========= Basic
+- #### Database SQL ==== Medium
+- #### Unity =========== Good
+- #### Game Design ==== Good
+- #### Maya =========== Medium
+- #### Multiplayer ====== Good
 
 
 ## LANGUAGES 🔡
-#### Thai ============ Native
-#### English ========== Good
+- #### Thai ============ Native
+- #### English ========== Good
 
 
 ## MY GAME SHOWCASE 🎮
