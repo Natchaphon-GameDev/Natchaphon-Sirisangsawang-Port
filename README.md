@@ -4,7 +4,7 @@
   <h1 align="center">Natchaphon Sirisangsawang's Portfolio</h1>
 
   <p align="center">
-    Natchaphon Sirisangsawang website/portfolio / Demo: 
+    Natchaphon Sirisangsawang website/portfolio : 
     <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio || Template by hashirshoaeb✨</a>
     <br />
     <br />
