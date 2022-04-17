@@ -6,9 +6,9 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Natchaphon",
+  firstName: "NATCHAPHON",
   middleName: "",
-  lastName: "Sirisangsawang",
+  lastName: "SIRISANGSAWANG",
   message: " Passionate about Game Development and Programming. ",
   icons: [
     {
@@ -46,12 +46,12 @@ const mainBody = {
 
 const about = {
   show: true,
-  heading: "About Me",
+  heading: "A B O U T - M E",
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Natchaphon Sirisangsawang. I’m a Student from Bangkok University in Thailand with a degree in Game and Interactive Media. I would love to work with everyone that has the same goal to create the best game ever. In my free time I like working on my own game projects and play Multiplayer game.",
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
@@ -62,8 +62,8 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  gitHubUsername: "Natchaphon-GameDev", //i.e."johnDoe12Gh"
+  reposLength: 6,
   specificRepos: [],
 };
 
@@ -96,23 +96,23 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "C#", value: 87 },
+    { name: "JavaScript", value: 70 },
+    { name: "Firebase", value: 65 },
+    { name: "Database SQL", value: 50 },
+    { name: "Unity", value: 90 },
+    { name: "Maya", value: 65 },
+    { name: "Multiplayer", value: 70 },
+    { name: "Game Design", value: 75 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Detail-oriented", value: 85 },
+    { name: "Collaboration", value: 95 },
+    { name: "Fast-Learner", value: 90 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Problem Solving", value: 80 },
+    { name: "Goal-Oriented", value: 80 },
+    { name: "Management", value: 75 },
     { name: "Creativity", value: 90 },
   ],
 };

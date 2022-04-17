@@ -18,16 +18,65 @@
 
 ## Table of Contents
 
-- [Technology Stack 🛠️](#technology-stack-)
-- [Structure ⚓](#structure-)
+- [About me 👨‍💻](#structure-)
+- [Education 🎓](#education-)
 - [Sharing 💗](#sharing-)
 - [Prerequisites 🍪](#prerequisites-)
 - [Contributing 🙌](#contributing-)
 - [Showcase 🚀](#showcase-)
 
-## Technology Stack 🛠️
+## ABOUT ME 👨‍💻
 
-Dependencies defined in package.json:
+- PERSONAL INFORMATION
+  - Name | Natchaphon Sirisangsawang
+  - NickName | Pruek (พฤกษ)
+  - BirthDate | July 6, 2000
+  - Nationality | Thai
+
+
+- MY OBJECTIVE
+  - To get more experience and technic in Game Development.
+  - To make relationships with other people in the game development community.
+
+
+- STRENGTHS 
+  - Fast-Learner 
+  - Flexibility 
+  - Detail-oriented
+  - Management
+  - Teamwork
+  - Creative
+  
+
+- ATTITUDE 
+  - I would love to work with everyone that has the same goal to create the funniest
+    game ever!
+  - I'm glad to see happiness from people playing games I've developed.
+
+## EDUCATION 🎓
+
+- HIGH SCHOOL
+
+
+    # Year 2013 - 2019
+    - SUANKULARB WITTAYALAI RANGSIT SCHOOL | THAILAND
+    Eng - Math 
+
+    * GPA : 3.64
+
+- BACHELOR'S DEGREE
+
+
+    
+    # Year 2019 - 2022
+    - BANGKOK UNIVERSITY | THAILAND
+    - GAME AND INTERACTIVE MEDIA
+
+    * GPA : 3.97
+
+
+
+
 
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
@@ -35,29 +84,6 @@ Dependencies defined in package.json:
 | [GitHub API](https://developer.github.com/v3/repos/)
 | [Instagram API](https://www.instagram.com/developer/embedding/)
 
-## Structure ⚓
-
-- Navigation bar (optional)
-- Body
-  - Name | Profession
-  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
-  - Resume | About me
-- About Me
-  - Display picture (optional)
-  - About myself, my Interests, Goals and Hobbies
-  - Things I'm good at (Skills)
-  - Resume button
-- Recent Projects (using GitHub API) (optional)
-- Leadership (optional)
-  - Paragraph
-  - Carousel images
-- Skills (optional)
-  - Technical Skills
-  - Soft Skills
-- Footer
-  - Footer Note (optional)
-  - Copyrights - open source
-  - Acknowledgements(
 
 ## Sharing 💗
 
