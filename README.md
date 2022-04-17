@@ -12,7 +12,7 @@
   </p>
 </p>
 
-[![LinkedIn](https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
+[![LinkedIn](https://www.shareicon.net/data/256x256/2015/08/29/92755_linkedin_606x606.png)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
 
 [![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
 
