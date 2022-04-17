@@ -42,7 +42,7 @@
   - Creativity
   
 
-- ATTITUDE 
+- ### ATTITUDE 
   - I would love to work with everyone that has the same goal to create the funniest
     game ever!
   - I'm glad to see happiness from people playing games I've developed.
@@ -52,7 +52,7 @@
 - ### HIGH SCHOOL
 
 
-    ## Year 2013 - 2019
+    ### Year 2013 - 2019
     - SUANKULARB WITTAYALAI RANGSIT SCHOOL | THAILAND
     Eng - Math 
 
@@ -62,7 +62,7 @@
 
 
     
-    ## Year 2019 - 2022
+    ### Year 2019 - 2022
     - BANGKOK UNIVERSITY | THAILAND
     - GAME AND INTERACTIVE MEDIA
 
@@ -90,7 +90,7 @@
 
 This is a game that my team and I used to develop during college, Years 1-3.
 
-🏆 => Submit to competition & won or get some reward!
+🏆 => Submit to competition & Won or Enter the final!
 
 <table>
   <tr>
