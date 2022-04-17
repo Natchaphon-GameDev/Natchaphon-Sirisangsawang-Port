@@ -63,8 +63,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "Natchaphon-GameDev", //i.e."johnDoe12Gh"
-  reposLength: 6,
-  specificRepos: [],
+  reposLength: 3,
+  specificRepos: ["Coding-Practice","My-First-Chat-Application-for-Mobile", "Project-Text-Game-Adventure"],
 };
 
 // Leadership SECTION
@@ -117,28 +117,27 @@ const skills = {
   ],
 };
 
-// GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for Intern or full-time Game Developer especially Game Programming your Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "nsp.gamedev@gmail.com",
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Main Programmer, Game Designer, Level Designer',
+      companylogo: require('../assets/img/RTM.png'),
+      date: 'December 2021 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Solo Game Developer in Itch.io',
+      companylogo: require('../assets/img/rsz_preuk.png'),
+      date: 'July 2020 – Present',
     },
   ]
 }
