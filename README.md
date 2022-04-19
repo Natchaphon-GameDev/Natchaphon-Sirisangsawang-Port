@@ -4,7 +4,7 @@
   <h1 align="center">Natchaphon Sirisangsawang's Portfolio</h1>
 
   <p align="center">
-    Natchaphon Sirisangsawang website/portfolio / Demo: 
+    Natchaphon Sirisangsawang website/portfolio : 
     <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio || Template by hashirshoaeb✨</a>
     <br />
     <br />
@@ -40,9 +40,11 @@
   - Collaboration
   - Adaptability
   - Creativity
-  
+  - Management
+ 
 
 - ### ATTITUDE 
+  - Passionate about Game Development and Programming.
   - I would love to work with everyone that has the same goal to create the funniest
     game ever!
   - I'm glad to see happiness from people playing games I've developed.
@@ -78,7 +80,7 @@
 - #### Unity =========== Good
 - #### Game Design ==== Good
 - #### Maya =========== Medium
-- #### Multiplayer ====== Good
+- #### Multiplayer ==== Medium
 
 
 ## LANGUAGES 🔡
