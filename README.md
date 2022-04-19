@@ -44,6 +44,7 @@
  
 
 - ### ATTITUDE 
+  - Passionate about Game Development and Programming.
   - I would love to work with everyone that has the same goal to create the funniest
     game ever!
   - I'm glad to see happiness from people playing games I've developed.
