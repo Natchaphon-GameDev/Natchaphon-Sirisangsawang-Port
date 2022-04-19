@@ -63,8 +63,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "Natchaphon-GameDev", //i.e."johnDoe12Gh"
-  reposLength: 3,
-  specificRepos: ["Coding-Practice","My-First-Chat-Application-for-Mobile", "Project-Text-Game-Adventure"],
+  reposLength: 2,
+  specificRepos: ["Coding-Practice","My-First-Chat-Application-for-Mobile", "Project-Text-Game-Adventure","A-I-B-O"],
 };
 
 // Leadership SECTION
@@ -96,10 +96,10 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "C#", value: 87 },
+    { name: "C#", value: 95 },
     { name: "JavaScript", value: 65 },
-    { name: "Firebase", value: 65 },
-    { name: "Database SQL", value: 50 },
+    { name: "Firebase", value: 75 },
+    { name: "Database SQL", value: 55 },
     { name: "Unity", value: 90 },
     { name: "Maya", value: 65 },
     { name: "Multiplayer", value: 70 },
@@ -112,8 +112,8 @@ const skills = {
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 80 },
     { name: "Goal-Oriented", value: 80 },
-    { name: "Management", value: 75 },
-    { name: "Creativity", value: 90 },
+    { name: "Management", value: 90 },
+    { name: "Creativity", value: 95 },
   ],
 };
 
