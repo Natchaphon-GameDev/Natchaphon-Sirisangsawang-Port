@@ -40,7 +40,8 @@
   - Collaboration
   - Adaptability
   - Creativity
-  
+  - Management
+ 
 
 - ### ATTITUDE 
   - I would love to work with everyone that has the same goal to create the funniest
