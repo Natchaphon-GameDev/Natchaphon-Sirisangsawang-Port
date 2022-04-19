@@ -78,7 +78,7 @@
 - #### Unity =========== Good
 - #### Game Design ==== Good
 - #### Maya =========== Medium
-- #### Multiplayer ====== Good
+- #### Mirror ====== Medium
 
 
 ## LANGUAGES 🔡
