@@ -100,7 +100,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://tatiya.itch.io/when">
         <img src="READMEdocs/When.gif" width="300px" alt="" />
         <br />
-        <sub><b>🏆🏆 When</b></sub>
+        <sub><b>🏆🏆 When <br /> Main Programmer / Rigger</b></sub>
       </a>
       <br />
     </td>
@@ -108,7 +108,8 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://tatiya.itch.io/aibo">
         <img src="READMEdocs/AIBO.gif" width="300px" alt="" />
         <br />
-        <sub><b>🏆 AiBō 「あいぼう」</b></sub>
+        <sub><b>🏆 AiBō 「あいぼう」<br /> MAIN PROGRAMMER / SUB LEVEL
+DESIGN</b></sub>
       </a>
       <br />
     </td>
@@ -116,7 +117,8 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://natchaphondev.itch.io/kaid">
         <img src="READMEdocs/KAID.gif" width="300px" alt="" />
         <br />
-        <sub><b>KAI Defend</b></sub>
+        <sub><b>KAI Defend <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
+GAME DESIGNER</b></sub>
       </a>
       <br />
     </td>
@@ -126,7 +128,8 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://natchaphondev.itch.io/a-taxi">
         <img src="READMEdocs/Taxi.gif" width="300px" alt="" />
         <br />
-        <sub><b>A Taxi</b></sub>
+        <sub><b>A Taxi <br />  MAIN PROGRAMMER /
+GAME DESIGNER</b></sub>
       </a>
       <br />
     </td>
@@ -134,7 +137,8 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://natchaphondev.itch.io/time2race">
         <img src="READMEdocs/Time2race.gif" width="300px" alt="" />
         <br />
-        <sub><b>Time2Race</b></sub>
+        <sub><b>Time2Race <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
+GAME DESIGNER </b></sub>
       </a>
       <br />
     </td>
@@ -142,7 +146,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://natchaphondev.itch.io/spaceship">
         <img src="READMEdocs/Space.gif" width="300px" alt="" />
         <br />
-        <sub><b>SpaceShip</b></sub>
+        <sub><b>SpaceShip <br /> SOLO PROJECT</b></sub>
       </a>
       <br />
     </td>
