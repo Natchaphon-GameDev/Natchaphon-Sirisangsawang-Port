@@ -100,7 +100,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <a href="https://tatiya.itch.io/when">
         <img src="READMEdocs/When.gif" width="450px" alt="" />
         <br />
-        <sub><b>🏆🏆 When <br /> Main Programmer / Rigger</b></sub>
+        <sub><b>🏆🏆 When <br /> MAIN PROGRAMMER / RIGGER</b></sub>
       </a>
       <br />
     </td>
