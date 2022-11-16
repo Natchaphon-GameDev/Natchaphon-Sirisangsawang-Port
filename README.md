@@ -117,7 +117,7 @@ DESIGN</b></sub>
 <tr>
     <td align="center">
       <a href="https://natchaphondev.itch.io/kaid">
-        <img src="READMEdocs/KAID.gif" width="450px" alt="" />
+        <img src="READMEdocs/KAID.gif" width="500px" alt="" />
         <br />
         <sub><b>KAI Defend <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
 GAME DESIGNER</b></sub>
