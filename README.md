@@ -104,6 +104,8 @@ This is a game that my team and I used to develop during college, Years 1-3.
       </a>
       <br />
     </td>
+    </tr>
+  <tr>
     <td align="center">
     <img src="READMEdocs/AIBO.gif" width="450px" alt="" />
       <a href="https://tatiya.itch.io/aibo">
@@ -124,6 +126,8 @@ GAME DESIGNER</b></sub>
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
      <img src="READMEdocs/Taxi.gif" width="500px" alt="" />
       <a href="https://natchaphondev.itch.io/a-taxi">  
@@ -135,6 +139,8 @@ GAME DESIGNER</b></sub>
     </td>
 </tr>
 <tr>
+  </tr>
+  <tr>
     <td align="center">
     <img src="READMEdocs/Time2race.gif" width="450px" alt="" />
       <a href="https://natchaphondev.itch.io/time2race">
@@ -144,6 +150,8 @@ GAME DESIGNER </b></sub>
       </a>
       <br />
     </td>
+    </tr>
+  <tr>
     <td align="center">
      <img src="READMEdocs/Space.gif" width="450px" alt="" />
       <a href="https://natchaphondev.itch.io/spaceship">
@@ -153,6 +161,8 @@ GAME DESIGNER </b></sub>
       <br />
     </td>
   </tr>
+  <tr>
+    </tr>
   <tr>
     <td align="center">
     <img src="READMEdocs/ZombieHunter.gif" width="500px" alt="" />
