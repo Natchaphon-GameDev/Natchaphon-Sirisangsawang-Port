@@ -126,6 +126,14 @@ DESIGN</b></sub>
       </a>
       <br />
     </td>
+
+ <td align="center">
+        <sub><b> AiBō is a two-player game with a concept of two contrasting things compatible with each other.
+This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
+🏆1st place on the Global game jam Bangkok(DPU) site.
+</b></sub>
+    </td>
+
 </tr>
 <tr>
     <td align="center">
