@@ -73,11 +73,13 @@
 
 ## SKILL 📖
 - #### C# ============ Good
+- #### Lua =========== Medium
 - #### Java =========== Medium
 - #### Firebase ======== Medium
 - #### Python ========= Basic
 - #### Database SQL ==== Medium
 - #### Unity =========== Good
+- #### Roblox ========== Medium
 - #### Game Design ==== Good
 - #### Maya =========== Medium
 - #### Multiplayer ==== Medium
@@ -94,6 +96,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
 
 🏆 => Submit to competition & Won or Enter the final!
 
+
 <table>
   <tr>
     <td align="center">
@@ -103,6 +106,14 @@ This is a game that my team and I used to develop during college, Years 1-3.
         <sub><b>🏆🏆 When <br /> MAIN PROGRAMMER / RIGGER</b></sub>
       </a>
       <br />
+    </td>
+
+ <td align="center">
+        <sub><b> - When: is a puzzle game in which you can control time.
+Players must solve the puzzle at each stage to acquire an item for time travel.
+🏆 Joined Depa Game Accelerator Program Batch 2, gain a prize Nintendo Switch developer kit and the right to publish the game on the e-shop.
+🏆 Joined GAME TALENT SHOWCASE 2022, finalist of four rewards. 
+</b></sub>
     </td>
     </tr>
   <tr>
