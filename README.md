@@ -163,6 +163,17 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
+    <img src="READMEdocs/Mridok.gif" width="500px" alt="" />
+      <a href="https://natchaphondev.itch.io/ifitjam2022">
+        <br />
+        <sub><b> มฤกด (Mridok) <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</b></sub>
+      </a>
+      <br />
+  </tr>
+
+  <tr>
+    <td align="center">
      <img src="READMEdocs/Taxi.gif" width="500px" alt="" />
       <a href="https://natchaphondev.itch.io/a-taxi">  
         <br />
