@@ -118,21 +118,55 @@ DESIGN</b></sub>
 </tr>
 <tr>
     <td align="center">
-    <img src="READMEdocs/KAID.gif" width="450px" alt="400" />
+    <img src="READMEdocs/KAID.gif" width="450px" alt="" />
       <a href="https://natchaphondev.itch.io/kaid">
         <br />
-        <sub><b>KAI Defend <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
+        <sub><b>KAI Defend <br /> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
 GAME DESIGNER</b></sub>
       </a>
       <br />
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+    <img src="READMEdocs/StackUp.gif" width="500px" alt="" />
+      <a href="https://natchaphondev.itch.io/stack-up">
+        <br />
+        <sub><b> STACK UP <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</b></sub>
+      </a>
+      <br />
+  </tr>
+
+  <tr>
+    <td align="center">
+    <img src="READMEdocs/Twoarmies.gif" width="500px" alt="" />
+      <a href="https://natchaphondev.itch.io/twoarmies">
+        <br />
+        <sub><b> Twoarmies <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</b></sub>
+      </a>
+      <br />
+  </tr>
+
+  <tr>
+    <td align="center">
+    <img src="READMEdocs/ZombieHunter.gif" width="500px" alt="" />
+      <a href="https://natchaphondev.itch.io/zombie-hunter">
+        <br />
+        <sub><b>Zombie Hunter <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</b></sub>
+      </a>
+      <br />
+  </tr>
+
   <tr>
     <td align="center">
      <img src="READMEdocs/Taxi.gif" width="500px" alt="" />
       <a href="https://natchaphondev.itch.io/a-taxi">  
         <br />
-        <sub><b>A Taxi <br />  MAIN PROGRAMMER /
+        <sub><b>A Taxi <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</b></sub>
       </a>
       <br />
@@ -145,7 +179,7 @@ GAME DESIGNER</b></sub>
     <img src="READMEdocs/Time2race.gif" width="450px" alt="" />
       <a href="https://natchaphondev.itch.io/time2race">
         <br />
-        <sub><b>Time2Race <br /> MAIN PROGRAMMER / PROJECT DIRECTOR /
+        <sub><b>Time2Race <br /> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
 GAME DESIGNER </b></sub>
       </a>
       <br />
@@ -163,15 +197,5 @@ GAME DESIGNER </b></sub>
   </tr>
   <tr>
     </tr>
-  <tr>
-    <td align="center">
-    <img src="READMEdocs/ZombieHunter.gif" width="500px" alt="" />
-      <a href="https://natchaphondev.itch.io/zombie-hunter">
-        <br />
-        <sub><b>Zombie Hunter <br />  MAIN PROGRAMMER /
-GAME DESIGNER</b></sub>
-      </a>
-      <br />
-  </tr>
 
 </table>
