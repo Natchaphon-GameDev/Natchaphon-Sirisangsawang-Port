@@ -72,7 +72,7 @@
 
 
 ## SKILL 📖
-- #### C# ============ Good
+- #### C# ============ Good                                    
 - #### Lua =========== Medium
 - #### Java =========== Medium
 - #### Firebase ======== Medium
@@ -100,7 +100,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
 <table>
   <tr>
     <td align="center">
-    <img src="READMEdocs/When.gif" width="450px" alt="" />
+    <img src="READMEdocs/When.gif" width="450px" height="250px" alt="" />
         <br />
 <sub><b> <a href="https://tatiya.itch.io/when" target="_blank"> When </a> </b> <br/> MAIN PROGRAMMER / RIGGER
 </sub>
@@ -117,8 +117,7 @@ Players must solve the puzzle at each stage to acquire an item for time travel.<
     </tr>
   <tr>
     <td align="center">
-    <img src="READMEdocs/AIBO.gif" width="450px" alt="" />
-      <a href="">
+    <img src="READMEdocs/AIBO.gif" width="450px" height="250px" alt="" />
 <br />
         <sub><b> <a href="https://tatiya.itch.io/aibo" target="_blank"> AiBō 「あいぼう」 </a> </b> <br/> MAIN PROGRAMMER / SUB LEVEL DESIGN
 </sub>
@@ -137,14 +136,14 @@ This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
 </tr>
 <tr>
     <td align="center">
-    <img src="READMEdocs/KAID.gif" width="450px" alt="" />
+    <img src="READMEdocs/KAID.gif" width="450px" height="250px" alt="" />
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend </a> </b> <br/> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
+        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend (KAID) </a> </b> <br/> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
 GAME DESIGNER</sub>
       <br />
     </td>
  <td align="center">
-        <sub><b> Kai Defend (KAID) is a card tower defense game based on a mobile platform that was developed with 
+        <sub><b> Kai Defend is a card tower defense game based on a mobile platform that was developed with 
 <a href="https://firebase.google.com/" target="_blank">Firebase</a> to store the player's score.
 </b></sub>
     </td>
@@ -152,7 +151,7 @@ GAME DESIGNER</sub>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/StackUp.gif" width="500px" alt="" />
+    <img src="READMEdocs/StackUp.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/stack-up">
         <br />
         <sub><b> STACK UP <br /> MANAGER / MAIN PROGRAMMER /
@@ -163,7 +162,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/Twoarmies.gif" width="500px" alt="" />
+    <img src="READMEdocs/Twoarmies.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/twoarmies">
         <br />
         <sub><b> Twoarmies <br /> MANAGER / MAIN PROGRAMMER /
@@ -174,7 +173,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/ZombieHunter.gif" width="500px" alt="" />
+    <img src="READMEdocs/ZombieHunter.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/zombie-hunter">
         <br />
         <sub><b>Zombie Hunter <br /> MANAGER / MAIN PROGRAMMER /
@@ -185,7 +184,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/Mridok.gif" width="500px" alt="" />
+    <img src="READMEdocs/Mridok.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/ifitjam2022">
         <br />
         <sub><b> มฤดก (Mridok) <br /> MANAGER / MAIN PROGRAMMER /
@@ -196,7 +195,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-     <img src="READMEdocs/Taxi.gif" width="500px" alt="" />
+     <img src="READMEdocs/Taxi.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/a-taxi">  
         <br />
         <sub><b>A Taxi <br /> MANAGER / MAIN PROGRAMMER /
@@ -209,7 +208,7 @@ GAME DESIGNER</b></sub>
   </tr>
   <tr>
     <td align="center">
-    <img src="READMEdocs/Time2race.gif" width="450px" alt="" />
+    <img src="READMEdocs/Time2race.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/time2race">
         <br />
         <sub><b>Time2Race <br /> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
@@ -220,7 +219,7 @@ GAME DESIGNER </b></sub>
     </tr>
   <tr>
     <td align="center">
-     <img src="READMEdocs/Space.gif" width="450px" alt="" />
+     <img src="READMEdocs/Space.gif" width="450px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/spaceship">
         <br />
         <sub><b>SpaceShip <br /> SOLO PROJECT</b></sub>
