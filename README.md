@@ -100,7 +100,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
 <table>
   <tr>
     <td align="center">
-    <img src="READMEdocs/When.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/When.gif" width="550px" height="250px" alt="" />
         <br />
 <sub><b> <a href="https://tatiya.itch.io/when" target="_blank"> When </a> </b> <br/> MAIN PROGRAMMER / RIGGER
 </sub>
@@ -117,7 +117,7 @@ Players must solve the puzzle at each stage to acquire an item for time travel.<
     </tr>
   <tr>
     <td align="center">
-    <img src="READMEdocs/AIBO.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/AIBO.gif" width="550px" height="250px" alt="" />
 <br />
         <sub><b> <a href="https://tatiya.itch.io/aibo" target="_blank"> AiBō 「あいぼう」 </a> </b> <br/> MAIN PROGRAMMER / SUB LEVEL DESIGN
 </sub>
@@ -136,33 +136,44 @@ This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
 </tr>
 <tr>
     <td align="center">
-    <img src="READMEdocs/KAID.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/KAID.gif" width="550px" height="250px" alt="" />
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend (KAID) </a> </b> <br/> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
 GAME DESIGNER</sub>
       <br />
     </td>
  <td align="center">
-        <sub><b> Kai Defend is a card tower defense game based on a mobile platform that was developed with 
-<a href="https://firebase.google.com/" target="_blank">Firebase</a> to store the player's score.
+        <sub><b> Kai Defend is a card tower defense game developed with 
+<a href="https://unity.com/" target="_blank"> Unity </a> and
+<a href="https://firebase.google.com/" target="_blank"> FireBase </a> <br>
+This game is based on a mobile platform and use firebase to store the player's score.
 </b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/StackUp.gif" width="450px" height="250px" alt="" />
-      <a href="https://natchaphondev.itch.io/stack-up">
+    <img src="READMEdocs/StackUp.gif" width="550px" height="250px" alt="" />
         <br />
-        <sub><b> STACK UP <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</b></sub>
-      </a>
+        <sub><b> <a href="https://natchaphondev.itch.io/stack-up" target="_blank">STACK UP</a></b> <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</sub>
       <br />
+
+<td align="center">
+        <sub><b> Stack up is a minigame VR developed with 
+<a href="https://unity.com/" target="_blank"> Unity </a>, 
+<a href="https://natchaphondev.itch.io/stack-up" target="_blank">Oculus integration SDK!</a> and
+<a href="https://lootlocker.com/?gclid=CjwKCAiAkfucBhBBEiwAFjbkr8oLV9ycfjow3xhMjVwcB8o2cDleDQaY51s23-EKykalW9KPrA9nthoCNz4QAvD_BwE" target="_blank">Loot Locker</a><br>
+This game is mainly using Oculus Hand Tracking System.<br>
+Players need to clear each minigame task as fast as possible to bring 
+their name to the top of the Leaderboard.
+</b></sub>
+    </td>
   </tr>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/Twoarmies.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/Twoarmies.gif" width="550px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/twoarmies">
         <br />
         <sub><b> Twoarmies <br /> MANAGER / MAIN PROGRAMMER /
@@ -173,7 +184,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/ZombieHunter.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/ZombieHunter.gif" width="550px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/zombie-hunter">
         <br />
         <sub><b>Zombie Hunter <br /> MANAGER / MAIN PROGRAMMER /
@@ -184,7 +195,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/Mridok.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/Mridok.gif" width="550px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/ifitjam2022">
         <br />
         <sub><b> มฤดก (Mridok) <br /> MANAGER / MAIN PROGRAMMER /
@@ -195,7 +206,7 @@ GAME DESIGNER</b></sub>
 
   <tr>
     <td align="center">
-     <img src="READMEdocs/Taxi.gif" width="450px" height="250px" alt="" />
+     <img src="READMEdocs/Taxi.gif" width="550px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/a-taxi">  
         <br />
         <sub><b>A Taxi <br /> MANAGER / MAIN PROGRAMMER /
@@ -208,7 +219,7 @@ GAME DESIGNER</b></sub>
   </tr>
   <tr>
     <td align="center">
-    <img src="READMEdocs/Time2race.gif" width="450px" height="250px" alt="" />
+    <img src="READMEdocs/Time2race.gif" width="550px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/time2race">
         <br />
         <sub><b>Time2Race <br /> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
@@ -219,7 +230,7 @@ GAME DESIGNER </b></sub>
     </tr>
   <tr>
     <td align="center">
-     <img src="READMEdocs/Space.gif" width="450px" height="250px" alt="" />
+     <img src="READMEdocs/Space.gif" width="550px" height="250px" alt="" />
       <a href="https://natchaphondev.itch.io/spaceship">
         <br />
         <sub><b>SpaceShip <br /> SOLO PROJECT</b></sub>
