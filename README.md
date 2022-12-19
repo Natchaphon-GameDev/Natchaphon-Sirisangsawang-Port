@@ -101,10 +101,9 @@ This is a game that my team and I used to develop during college, Years 1-3.
   <tr>
     <td align="center">
     <img src="READMEdocs/When.gif" width="450px" alt="" />
-      <a href="https://tatiya.itch.io/when">
         <br />
-        <sub><b>🏆🏆 When <br /> MAIN PROGRAMMER / RIGGER</b></sub>
-      </a>
+<sub><b> <a href="https://tatiya.itch.io/when" target="_blank"> When </a> </b> <br/> MAIN PROGRAMMER / RIGGER
+</sub>
       <br />
     </td>
 
@@ -119,10 +118,11 @@ Players must solve the puzzle at each stage to acquire an item for time travel.<
   <tr>
     <td align="center">
     <img src="READMEdocs/AIBO.gif" width="450px" alt="" />
-      <a href="https://tatiya.itch.io/aibo">
-        <br />
-        <sub><b>🏆 AiBō 「あいぼう」<br /> MAIN PROGRAMMER / SUB LEVEL
-DESIGN</b></sub>
+      <a href="">
+<br />
+        <sub><b> <a href="https://tatiya.itch.io/aibo" target="_blank"> AiBō 「あいぼう」 </a> </b> <br/> MAIN PROGRAMMER / SUB LEVEL DESIGN
+</sub>
+      <br />
       </a>
       <br />
     </td>
@@ -138,12 +138,15 @@ This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
 <tr>
     <td align="center">
     <img src="READMEdocs/KAID.gif" width="450px" alt="" />
-      <a href="https://natchaphondev.itch.io/kaid">
         <br />
-        <sub><b>KAI Defend <br /> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
-GAME DESIGNER</b></sub>
-      </a>
+        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend </a> </b> <br/> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
+GAME DESIGNER</sub>
       <br />
+    </td>
+ <td align="center">
+        <sub><b> Kai Defend (KAID) is a card tower defense game based on a mobile platform that was developed with 
+<a href="https://firebase.google.com/" target="_blank">Firebase</a> to store the player's score.
+</b></sub>
     </td>
   </tr>
 
@@ -185,7 +188,7 @@ GAME DESIGNER</b></sub>
     <img src="READMEdocs/Mridok.gif" width="500px" alt="" />
       <a href="https://natchaphondev.itch.io/ifitjam2022">
         <br />
-        <sub><b> มฤกด (Mridok) <br /> MANAGER / MAIN PROGRAMMER /
+        <sub><b> มฤดก (Mridok) <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</b></sub>
       </a>
       <br />
