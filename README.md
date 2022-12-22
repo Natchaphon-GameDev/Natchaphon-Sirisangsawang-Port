@@ -129,9 +129,9 @@ Players must solve the puzzle at each stage to acquire an item for time travel.<
 
  <td align="left">
         <sub><b> AiBō was developed with <a href="https://unity.com/" target="_blank"> Unity </a> <br> <br>
-AiBō is a two-player game with a concept of two contrasting things compatible with each other.
+AiBō is a two-player game with a concept of two contrasting things compatible with each other. <br>
 This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
-🏆1st place on the Global game jam Bangkok(DPU) site.
+🏆 1st place on the Global game jam Bangkok(DPU) site.
 </b></sub>
     </td>
 
