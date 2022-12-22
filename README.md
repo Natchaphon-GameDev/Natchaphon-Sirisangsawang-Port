@@ -290,7 +290,7 @@ you have to complete the number of laps in a race car in the least amount of tim
         <sub><b> SpaceShip was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> and 
 <a href="https://betterprogramming.pub/object-pooling-in-unity-aac9ccbc5dbd" target="_blank"> Object Pooling </a> <br><br>
-SpaceShip is a Spaceshift shooter game and the first 2D game I've ever made. In this game, <br>
+SpaceShip is a space shooter game and the first 2D game I've ever made. In this game, <br>
 you have to destroy enemy ships and survive at the same time as long as you can, with a total of 4 difficulty levels.
 </b></sub>
     </td>
