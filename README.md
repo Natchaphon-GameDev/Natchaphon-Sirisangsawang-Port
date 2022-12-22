@@ -12,6 +12,8 @@
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
+[![LinkedIn](linkedin-shield)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
+
 ## TABLE OF CONTENT
 
 - [About me 👨‍💻](#about-me-)
@@ -92,12 +94,27 @@
 
 ## MY GAME SHOWCASE 🎮
 
-This is a game that my team and I used to develop during college, Years 1-3.
+This is a game that my team and I used to develop during college.
 
-🏆 => Submit to competition & Won or Enter the final!
-
+https://codingformetaverse.com/#roadshow
 
 <table>
+ <tr>
+    <td align="center">
+    <img src="READMEdocs/Roblox.gif" width="400px" height="250px" alt="" />
+        <br />
+<sub><b> <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1" target="_blank"> Coding for Metaverse </a> </b> <br/> DEVELOPER
+</sub>
+      <br />
+    </td>
+
+ <td align="left">
+        <sub><b> Coding for Metaverse was developed with <a href="https://unity.com/" target="_blank"> Roblox Studio </a> <br> <br>
+<a href="https://github.com/Natchaphon-GameDev/IFIT-Roblox-Project" target="_blank"> What I do in this project </a>
+</b></sub>
+    </td>
+    </tr>
+
   <tr>
     <td align="center">
     <img src="READMEdocs/When.gif" width="400px" height="250px" alt="" />
