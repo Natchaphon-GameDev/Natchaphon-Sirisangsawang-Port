@@ -210,7 +210,7 @@ GAME DESIGNER</sub>
         <sub><b> Zombie Hunter was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a>,
 <a href="https://en.wikipedia.org/wiki/Finite-state_machine" target="_blank"> Finite-state machine </a> and
-<a href="https://docs.unity3d.com/Manual/nav-NavigationSystem.html" target="_blank"> NevMesh </a> <br>
+<a href="https://docs.unity3d.com/Manual/nav-NavigationSystem.html" target="_blank"> NevMesh </a> <br> <br> 
 Zombie Hunter is a top-down shooter that uses a Finite-State Machine to toggle the state of enemy AI and friendly AI. <br>
 And the goal is to survive the zombies as long as possible!
 </b></sub>
@@ -230,7 +230,7 @@ GAME DESIGNER</sub>
 <td align="left">
         <sub><b> มฤดก (Mridok) was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> and
-<a href="https://quibli.dustyroom.com/" target="_blank"> Quibli </a> <br>
+<a href="https://quibli.dustyroom.com/" target="_blank"> Quibli </a> <br><br> 
 Mridok is an educational game about the history of Thai art. This game was made for the <a href="https://itch.io/jam/fit-game-jam" target="_blank"> IFIT GAME JAM 2022. </a> <br>
 In the "back to the future" theme at the start of the game, it's a 2D platformer, so after completing a level, It becomes 2.5D game.
 </b></sub>
@@ -249,36 +249,47 @@ GAME DESIGNER</sub>
 <td align="left">
         <sub><b> A Taxi was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> and
-<a href="https://en.wikipedia.org/wiki/Pathfinding" target="_blank"> Pathfinding </a> <br>
+<a href="https://en.wikipedia.org/wiki/Pathfinding" target="_blank"> Pathfinding </a> <br><br> 
 A Taxi is a taxi-driving simulation game.<br> 
-In which the player will take on the role of a taxi driver to pick up passengers from point A to point B,<br>
-having to make money from delivering as many passengers as possible within the allotted time.
+In which the player will take on the role of a taxi driver to pick up passengers from point A to point B.<br>
+Players have to make money from delivering as many passengers as possible within the allotted time.
 </b></sub>
     </td>
 
 </tr>
   <tr>
-    <td align="center">
+<td align="center">
     <img src="READMEdocs/Time2race.gif" width="400px" height="250px" alt="" />
-      <a href="https://natchaphondev.itch.io/time2race">
         <br />
-        <sub><b>Time2Race <br /> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
-GAME DESIGNER </b></sub>
-      </a>
+        <sub><b> <a href="https://natchaphondev.itch.io/time2race" target="_blank"> Time2Race </a></b> <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</sub>
       <br />
+</td>
+
+<td align="left">
+        <sub><b> A Taxi was developed with 
+<a href="https://unity.com/" target="_blank"> Unity </a> <br><br>
+Time2Race is a racing game and the first 3D game I've ever made. In this game, <br>
+you have to complete the number of laps in a race car in the least amount of time possible.
+</b></sub>
     </td>
-    </tr>
-  <tr>
-    <td align="center">
-     <img src="READMEdocs/Space.gif" width="400px" height="250px" alt="" />
-      <a href="https://natchaphondev.itch.io/spaceship">
-        <br />
-        <sub><b>SpaceShip <br /> SOLO PROJECT</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
     </tr>
 
+  <tr>
+<td align="center">
+    <img src="READMEdocs/Space.gif" width="400px" height="250px" alt="" />
+        <br />
+        <sub><b> <a href="https://natchaphondev.itch.io/spaceship" target="_blank"> SpaceShip </a></b> <br /> SOLO PROJECT </sub>
+      <br />
+</td>
+
+<td align="left">
+        <sub><b> SpaceShip was developed with 
+<a href="https://unity.com/" target="_blank"> Unity </a> and 
+<a href="https://betterprogramming.pub/object-pooling-in-unity-aac9ccbc5dbd" target="_blank"> Object Pooling </a> <br><br>
+SpaceShip is a Spaceshift shooter game and the first 2D game I've ever made. In this game, <br>
+you have to destroy enemy ships and survive at the same time as long as you can, with a total of 4 difficulty levels.
+</b></sub>
+    </td>
+  </tr>
 </table>
