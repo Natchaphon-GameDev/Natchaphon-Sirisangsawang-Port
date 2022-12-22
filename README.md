@@ -107,7 +107,7 @@ This is a game that my team and I used to develop during college, Years 1-3.
       <br />
     </td>
 
- <td align="center">
+ <td align="left">
         <sub><b> When was developed with <a href="https://unity.com/" target="_blank"> Unity </a> <br> <br>
 When is a puzzle game in which you can control time.
 Players must solve the puzzle at each stage to acquire an item for time travel.<br>
@@ -127,7 +127,7 @@ Players must solve the puzzle at each stage to acquire an item for time travel.<
       <br />
     </td>
 
- <td align="center">
+ <td align="left">
         <sub><b> AiBō was developed with <a href="https://unity.com/" target="_blank"> Unity </a> <br> <br>
 AiBō is a two-player game with a concept of two contrasting things compatible with each other.
 This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
@@ -140,11 +140,11 @@ This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
     <td align="center">
     <img src="READMEdocs/KAID.gif" width="400px" height="250px" alt="" />
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend (KAID) </a> </b> <br/> MANAGER / MAIN PROGRAMMER / PROJECT DIRECTOR /
+        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend (KAID) </a> </b> <br/> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
       <br />
     </td>
- <td align="center">
+ <td align="left">
         <sub><b> Kai Defend was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> and
 <a href="https://firebase.google.com/" target="_blank"> FireBase </a> <br> <br>
@@ -162,7 +162,7 @@ GAME DESIGNER</sub>
       <br />
 </td>
 
-<td align="center">
+<td align="left">
         <sub><b> Stack up was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a>, 
 <a href="https://natchaphondev.itch.io/stack-up" target="_blank">Oculus integration</a> and
@@ -184,7 +184,7 @@ GAME DESIGNER</sub>
       <br />
 </td>
 
-<td align="center">
+<td align="left">
         <sub><b> Twoarmies was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a>, 
 <a href="https://mirror-networking.com/" target="_blank"> Mirror </a>,
@@ -207,7 +207,7 @@ GAME DESIGNER</sub>
       <br />
 </td>
 
-<td align="center">
+<td align="left">
         <sub><b> Zombie Hunter was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> <br>
 Zombie Hunter is an RTS Multiplayer game that you will be a commander trying to destroy the opponent's base.<br>
