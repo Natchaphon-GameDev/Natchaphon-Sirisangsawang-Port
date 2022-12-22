@@ -250,8 +250,9 @@ GAME DESIGNER</sub>
         <sub><b> A Taxi was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> and
 <a href="https://en.wikipedia.org/wiki/Pathfinding" target="_blank"> Pathfinding </a> <br>
-A Taxi is a taxi-driving simulation game. In which the player will take on the role of a taxi driver <br>
-to pick up passengers from point A to point B,having to make money from delivering as many passengers as possible within the allotted time.
+A Taxi is a taxi-driving simulation game.<br> 
+In which the player will take on the role of a taxi driver to pick up passengers from point A to point B,<br>
+having to make money from delivering as many passengers as possible within the allotted time.
 </b></sub>
     </td>
 
