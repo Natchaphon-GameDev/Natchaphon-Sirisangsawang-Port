@@ -68,7 +68,7 @@
     - BANGKOK UNIVERSITY | THAILAND
     - GAME AND INTERACTIVE MEDIA
 
-    * GPA : 3.97
+    * GPA : 3.95
 
 
 ## SKILL 📖
@@ -132,7 +132,7 @@ Nintendo Switch developer kit and the right to publish the game on the e-shop.<b
  <td align="left">
         <sub><b> AiBō was developed with <a href="https://unity.com/" target="_blank"> Unity </a> <br> <br>
 AiBō is a two-player game with a concept of two contrasting things compatible with each other. <br>
-This game was made in 48 hours for Global Game Jam (GGJ2022) <br>
+This game was made in 48 hours for <a href="https://globalgamejam.org/2022/jam-sites/ant-x-dhurakij-pundit-university" target="_blank"> Global Game Jam 2022 (DPU-Site) </a> <br>
 🏆 <a href="https://www.facebook.com/ANTDPU/photos/a.443865135662426/4722302971151933/?type=3&paipv=0&eav=AfbgPuTO1_9EltwzDAu2WsXJnjYP0kDHjYxXgcTUaF5_7JAXN1Kzu1X1l3mq5zsWX4U&_rdr
 " target="_blank"> 1st place on the Global game jam Bangkok(DPU) site </a>.
 </b></sub>
