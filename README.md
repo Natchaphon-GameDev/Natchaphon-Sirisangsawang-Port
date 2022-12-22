@@ -13,7 +13,7 @@
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
 ## TABLE OF CONTENT
-//Test
+
 - [About me 👨‍💻](#about-me-)
 - [Education 🎓](#education-)
 - [Skill 📖](#skill-)
@@ -148,7 +148,8 @@ GAME DESIGNER</sub>
         <sub><b> Kai Defend was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> and
 <a href="https://firebase.google.com/" target="_blank"> FireBase </a> <br> <br>
-Kai Defend is a card tower defense game and based on a mobile platform and use firebase to store the player's score.
+Kai Defend is a mobile game in the style of RTS Tower Defense, <br> combining the game style of an endless and has an RNG that allows players to draw a turret card.<br> 
+came out as a game in the form of placing turrets to survive in each wave and get to the top of the leaderboard.
 </b></sub>
     </td>
   </tr>
@@ -168,8 +169,7 @@ GAME DESIGNER</sub>
 <a href="https://natchaphondev.itch.io/stack-up" target="_blank">Oculus integration</a> and
 <a href="https://lootlocker.com/?gclid=CjwKCAiAkfucBhBBEiwAFjbkr8oLV9ycfjow3xhMjVwcB8o2cDleDQaY51s23-EKykalW9KPrA9nthoCNz4QAvD_BwE" target="_blank">Loot Locker</a> <br> <br>
 Stack up is a mini game VR and this game is mainly using Oculus Hand Tracking System.<br>
-Players need to clear each mini game task as fast as possible to bring 
-their name to the top of the Leaderboard.
+Players need to clear each mini game task as fast as possible to bring their name to the top of the leaderboard.
 </b></sub>
     </td>
   </tr>
@@ -179,7 +179,7 @@ their name to the top of the Leaderboard.
   <td align="center">
     <img src="READMEdocs/Twoarmies.gif" width="400px" height="250px" alt="" />
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank">KAI Defend (KAID)</a></b> <br /> MANAGER / MAIN PROGRAMMER /
+        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank">Twoarmies</a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
       <br />
 </td>
@@ -192,8 +192,7 @@ GAME DESIGNER</sub>
 <a href="https://lootlocker.com/?gclid=CjwKCAiAkfucBhBBEiwAFjbkr8oLV9ycfjow3xhMjVwcB8o2cDleDQaY51s23-EKykalW9KPrA9nthoCNz4QAvD_BwE" target="_blank">Loot Locker</a> <br> <br>
 Twoarmies is an RTS Multiplayer game that you will be a commander trying to destroy the opponent's base.<br>
 This game is multiplayer with steam account. You can play PVP mode with your friends up to 4 people. <br>
-Command your army and lead them to victory.
-their name to the top of the Leaderboard.
+Command your army and lead them to victory and get to the top of the leaderboard.
 </b></sub>
     </td>
   </tr>
@@ -209,40 +208,54 @@ GAME DESIGNER</sub>
 
 <td align="left">
         <sub><b> Zombie Hunter was developed with 
-<a href="https://unity.com/" target="_blank"> Unity </a> <br>
-Zombie Hunter is an RTS Multiplayer game that you will be a commander trying to destroy the opponent's base.<br>
-This game is multiplayer with steam account. You can play PVP mode with your friends up to 4 people. <br>
-Command your army and lead them to victory.
-their name to the top of the Leaderboard.
+<a href="https://unity.com/" target="_blank"> Unity </a>,
+<a href="https://en.wikipedia.org/wiki/Finite-state_machine" target="_blank"> Finite-state machine </a> and
+<a href="https://docs.unity3d.com/Manual/nav-NavigationSystem.html" target="_blank"> NevMesh </a> <br>
+Zombie Hunter is a top-down shooter that uses a Finite-State Machine to toggle the state of enemy AI and friendly AI. <br>
+And the goal is to survive the zombies as long as possible!
 </b></sub>
     </td>
 
   </tr>
 
   <tr>
-    <td align="center">
+<td align="center">
     <img src="READMEdocs/Mridok.gif" width="400px" height="250px" alt="" />
-      <a href="https://natchaphondev.itch.io/ifitjam2022">
         <br />
-        <sub><b> มฤดก (Mridok) <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</b></sub>
-      </a>
+        <sub><b> <a href="https://natchaphondev.itch.io/ifitjam2022" target="_blank"> มฤดก (Mridok) </a></b> <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</sub>
       <br />
+</td>
+
+<td align="left">
+        <sub><b> มฤดก (Mridok) was developed with 
+<a href="https://unity.com/" target="_blank"> Unity </a> and
+<a href="https://quibli.dustyroom.com/" target="_blank"> Quibli </a> <br>
+Mridok is an educational game about the history of Thai art. This game was made for the <a href="https://itch.io/jam/fit-game-jam" target="_blank"> IFIT GAME JAM 2022. </a> <br>
+In the "back to the future" theme at the start of the game, it's a 2D platformer, so after completing a level, It becomes 2.5D game.
+</b></sub>
+    </td>
   </tr>
 
   <tr>
-    <td align="center">
-     <img src="READMEdocs/Taxi.gif" width="400px" height="250px" alt="" />
-      <a href="https://natchaphondev.itch.io/a-taxi">  
+<td align="center">
+    <img src="READMEdocs/Taxi.gif" width="400px" height="250px" alt="" />
         <br />
-        <sub><b>A Taxi <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</b></sub>
-      </a>
+        <sub><b> <a href="https://natchaphondev.itch.io/a-taxi" target="_blank"> A Taxi </a></b> <br /> MANAGER / MAIN PROGRAMMER /
+GAME DESIGNER</sub>
       <br />
+</td>
+
+<td align="left">
+        <sub><b> A Taxi was developed with 
+<a href="https://unity.com/" target="_blank"> Unity </a> and
+<a href="https://en.wikipedia.org/wiki/Pathfinding" target="_blank"> Pathfinding </a> <br>
+A Taxi is a taxi-driving simulation game. In which the player will take on the role of a taxi driver <br>
+to pick up passengers from point A to point B,having to make money from delivering as many passengers as possible within the allotted time.
+</b></sub>
     </td>
+
 </tr>
-<tr>
-  </tr>
   <tr>
     <td align="center">
     <img src="READMEdocs/Time2race.gif" width="400px" height="250px" alt="" />
