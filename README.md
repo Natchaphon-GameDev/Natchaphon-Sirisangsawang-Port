@@ -169,7 +169,7 @@ GAME DESIGNER</sub>
 <td align="left">
         <sub><b> Stack up was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a>, 
-<a href="https://natchaphondev.itch.io/stack-up" target="_blank">Oculus integration</a> and
+<a href="https://developer.oculus.com/downloads/package/unity-integration/" target="_blank">Oculus integration SDK</a> and
 <a href="https://lootlocker.com/?gclid=CjwKCAiAkfucBhBBEiwAFjbkr8oLV9ycfjow3xhMjVwcB8o2cDleDQaY51s23-EKykalW9KPrA9nthoCNz4QAvD_BwE" target="_blank">Loot Locker</a> <br> <br>
 Stack up is a mini game VR and this game is mainly using Oculus Hand Tracking System.<br>
 Players need to clear each mini game task as fast as possible to bring their name to the top of the leaderboard.
@@ -182,7 +182,7 @@ Players need to clear each mini game task as fast as possible to bring their nam
   <td align="center">
     <img src="READMEdocs/Twoarmies.gif" width="400px" height="250px" alt="" />
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank">Twoarmies</a></b> <br /> MANAGER / MAIN PROGRAMMER /
+        <sub><b> <a href="https://natchaphondev.itch.io/twoarmies" target="_blank">Twoarmies</a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
       <br />
 </td>
@@ -270,7 +270,7 @@ GAME DESIGNER</sub>
 </td>
 
 <td align="left">
-        <sub><b> A Taxi was developed with 
+        <sub><b> Time2Race was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a> <br><br>
 Time2Race is a racing game and the first 3D game I've ever made. In this game, <br>
 you have to complete the number of laps in a race car in the least amount of time possible.
