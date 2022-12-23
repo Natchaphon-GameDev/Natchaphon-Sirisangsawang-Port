@@ -12,7 +12,10 @@
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
-[![LinkedIn](linkedin-shield)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
+<a href="https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/"><img src="https://icons8.com/icon/RjyJigAbeJlA/linkedin-circled" alt="LinkedIn"/></a>
+
+[![LinkedIn](READMEdocs/Icons/icons8-linkedin-2.gif)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
+<a target="_blank" href="https://icons8.com/icon/EPGwLJfY346B/linkedin-2">LinkedIn 2</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ## TABLE OF CONTENT
 
