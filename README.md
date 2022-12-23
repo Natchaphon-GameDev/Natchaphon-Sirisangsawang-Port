@@ -1,20 +1,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center"> Natchaphon Sirisangsawang's Portfolio </h1>
+  <h1 align="center"> NATCHAPHON SIRISANGSAWANG PORTFOLIO </h1>
 
   <p align="center">
-    Natchaphon Sirisangsawang website/portfolio : 
-    <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio || Template by hashirshoaeb✨</a>
+    MY WEBSITE / ABOUT ME / RESUME : 
+    <a href="https://natchaphon-gamedev.github.io/Portfolio/"> CLICK HERE! </a>
   </p>
+
 <h1 align="center">
 
-[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsp.gamedev@gmail.com?subject)
-[![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/natchaphon.sirisangsawang/)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pruek_ns/)
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
-
-<br>
+[![Site preview](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsp.gamedev@gmail.com?subject)
+[![Site preview](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/natchaphon.sirisangsawang/)
+[![Site preview](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pruek_ns/)
+[![Site preview](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
@@ -30,15 +29,13 @@
 
 - ### PERSONAL INFORMATION
   - Name | Natchaphon Sirisangsawang
-  - NickName | Pruek (พฤกษ)
+  - NickName | Pruek (พฤกษ์)
   - BirthDate | July 6, 2000
   - Nationality | Thai
-
 
 - ### MY OBJECTIVE
   - To get more experience and technic in Game Development.
   - To make relationships with other people in the game development community.
-
 
 - ### STRENGTHS 
   - Fast-Learner 
@@ -47,7 +44,6 @@
   - Adaptability
   - Creativity
   - Management
- 
 
 - ### ATTITUDE 
   - Passionate about Game Development and Programming.
@@ -78,6 +74,7 @@
 
 
 ## SKILL 📖
+
 - #### C# ============ Good                                    
 - #### Lua =========== Medium
 - #### Java =========== Medium
@@ -100,28 +97,33 @@
 
 This is a game that my team and I used to develop during college.
 
-https://codingformetaverse.com/#roadshow
-
 <table>
  <tr>
     <td align="center">
-    <img src="READMEdocs/Roblox.gif" width="400px" height="250px" alt="" />
+    <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1"><img src="READMEdocs/Roblox.gif" width="400px" height="250px" alt="" /></a>
         <br />
-<sub><b> <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1" target="_blank"> Coding for Metaverse </a> </b> <br/> DEVELOPER
+<sub><b> <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1" target="_blank"> Coding For Metaverse </a> </b> <br/> DEVELOPER
+
 </sub>
       <br />
     </td>
 
  <td align="left">
         <sub><b> Coding for Metaverse was developed with <a href="https://unity.com/" target="_blank"> Roblox Studio </a> <br> <br>
-<a href="https://github.com/Natchaphon-GameDev/IFIT-Roblox-Project" target="_blank"> What I do in this project </a>
+Coding For Metaverse is my Internship Project with 
+<a href="https://www.depa.or.th/th/home" target="_blank"> Depa </a> and 
+<a href="https://futureskill.co/home" target="_blank"> Future Skill </a> 
+to create a learning platform for children using Roblox as a learning medium. <br> 
+This game teaches the children to understand the principles of game developmentand and can apply the knowledge they received to continue in the game development industry.<br>
+This is my <a href="https://codingformetaverse.com/#roadshow" target="_blank"> My works during internship </a>. <br>
+This is <a href="https://codingformetaverse.com/" target="_blank"> Coding For Metaverse website </a>.
 </b></sub>
     </td>
     </tr>
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/When.gif" width="400px" height="250px" alt="" />
+<a href="https://tatiya.itch.io/when"><img src="READMEdocs/When.gif" width="400px" height="250px" alt="" /></a>
         <br />
 <sub><b> <a href="https://tatiya.itch.io/when" target="_blank"> When </a> </b> <br/> MAIN PROGRAMMER / RIGGER
 </sub>
@@ -141,7 +143,7 @@ Nintendo Switch developer kit and the right to publish the game on the e-shop.<b
     </tr>
   <tr>
     <td align="center">
-    <img src="READMEdocs/AIBO.gif" width="400px" height="250px" alt="" />
+<a href="https://tatiya.itch.io/aibo"><img src="READMEdocs/AIBO.gif" width="400px" height="250px" alt="" /></a>
 <br />
         <sub><b> <a href="https://tatiya.itch.io/aibo" target="_blank"> AiBō 「あいぼう」 </a> </b> <br/> MAIN PROGRAMMER / SUB LEVEL DESIGN
 </sub>
@@ -153,7 +155,7 @@ Nintendo Switch developer kit and the right to publish the game on the e-shop.<b
  <td align="left">
         <sub><b> AiBō was developed with <a href="https://unity.com/" target="_blank"> Unity </a> <br> <br>
 AiBō is a two-player game with a concept of two contrasting things compatible with each other. <br>
-This game was made in 48 hours for <a href="https://globalgamejam.org/2022/jam-sites/ant-x-dhurakij-pundit-university" target="_blank"> Global Game Jam 2022 (DPU-Site) </a> <br>
+This game was made in 48 hours for <a href="https://globalgamejam.org/2022/jam-sites/ant-x-dhurakij-pundit-university" target="_blank"> Global Game Jam 2022 (DPU-Site) </a>. <br>
 🏆 <a href="https://www.facebook.com/ANTDPU/photos/a.443865135662426/4722302971151933/?type=3&paipv=0&eav=AfbgPuTO1_9EltwzDAu2WsXJnjYP0kDHjYxXgcTUaF5_7JAXN1Kzu1X1l3mq5zsWX4U&_rdr
 " target="_blank"> 1st place on the Global game jam Bangkok(DPU) site </a>.
 </b></sub>
@@ -162,9 +164,9 @@ This game was made in 48 hours for <a href="https://globalgamejam.org/2022/jam-s
 </tr>
 <tr>
     <td align="center">
-    <img src="READMEdocs/KAID.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/kaid"><img src="READMEdocs/KAID.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> KAI Defend (KAID) </a> </b> <br/> MANAGER / MAIN PROGRAMMER /
+        <sub><b> <a href="https://natchaphondev.itch.io/kaid" target="_blank"> Kai Defend (KAID) </a> </b> <br/> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
       <br />
     </td>
@@ -180,7 +182,7 @@ came out as a game in the form of placing turrets to survive in each wave and ge
 
   <tr>
     <td align="center">
-    <img src="READMEdocs/StackUp.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/stack-up"><img src="READMEdocs/StackUp.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/stack-up" target="_blank">STACK UP</a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
@@ -201,7 +203,7 @@ Players need to clear each mini game task as fast as possible to bring their nam
   <tr>
 
   <td align="center">
-    <img src="READMEdocs/Twoarmies.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/twoarmies"><img src="READMEdocs/Twoarmies.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/twoarmies" target="_blank">Twoarmies</a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
@@ -223,7 +225,7 @@ Command your army and lead them to victory and get to the top of the leaderboard
 
   <tr>
 <td align="center">
-    <img src="READMEdocs/ZombieHunter.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/zombie-hunter"><img src="READMEdocs/ZombieHunter.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/zombie-hunter" target="_blank"> Zombie Hunter</a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
@@ -244,7 +246,7 @@ And the goal is to survive the zombies as long as possible!
 
   <tr>
 <td align="center">
-    <img src="READMEdocs/Mridok.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/ifitjam2022"><img src="READMEdocs/Mridok.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/ifitjam2022" target="_blank"> มฤดก (Mridok) </a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
@@ -263,7 +265,7 @@ In the "back to the future" theme at the start of the game, it's a 2D platformer
 
   <tr>
 <td align="center">
-    <img src="READMEdocs/Taxi.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/a-taxi"><img src="READMEdocs/Taxi.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/a-taxi" target="_blank"> A Taxi </a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
@@ -283,7 +285,7 @@ Players have to make money from delivering as many passengers as possible within
 </tr>
   <tr>
 <td align="center">
-    <img src="READMEdocs/Time2race.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/time2race"><img src="READMEdocs/Time2race.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/time2race" target="_blank"> Time2Race </a></b> <br /> MANAGER / MAIN PROGRAMMER /
 GAME DESIGNER</sub>
@@ -301,7 +303,7 @@ you have to complete the number of laps in a race car in the least amount of tim
 
   <tr>
 <td align="center">
-    <img src="READMEdocs/Space.gif" width="400px" height="250px" alt="" />
+<a href="https://natchaphondev.itch.io/spaceship"><img src="READMEdocs/Space.gif" width="400px" height="250px" alt="" /></a>
         <br />
         <sub><b> <a href="https://natchaphondev.itch.io/spaceship" target="_blank"> SpaceShip </a></b> <br /> SOLO PROJECT </sub>
       <br />
