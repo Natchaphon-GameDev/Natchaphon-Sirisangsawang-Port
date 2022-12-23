@@ -7,13 +7,13 @@
     MY WEBSITE / ABOUT ME / RESUME : 
     <a href="https://natchaphon-gamedev.github.io/Portfolio/"> CLICK HERE! </a>
   </p>
-
 <h1 align="center">
 
 [![Site preview](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsp.gamedev@gmail.com?subject)
 [![Site preview](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/natchaphon.sirisangsawang/)
 [![Site preview](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pruek_ns/)
 [![Site preview](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
+</h1>
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
@@ -74,6 +74,7 @@
 
 
 ## SKILL 📖
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=red&label=Unity&logo=Unity&logoColor=White&style=for-the-badge&message="Test">
 
 - #### C# ============ Good                                    
 - #### Lua =========== Medium
@@ -120,7 +121,6 @@ This is <a href="https://codingformetaverse.com/" target="_blank"> Coding For Me
 </b></sub>
     </td>
     </tr>
-
   <tr>
     <td align="center">
 <a href="https://tatiya.itch.io/when"><img src="READMEdocs/When.gif" width="400px" height="250px" alt="" /></a>
@@ -179,7 +179,6 @@ came out as a game in the form of placing turrets to survive in each wave and ge
 </b></sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
 <a href="https://natchaphondev.itch.io/stack-up"><img src="READMEdocs/StackUp.gif" width="400px" height="250px" alt="" /></a>
@@ -199,7 +198,6 @@ Players need to clear each mini game task as fast as possible to bring their nam
 </b></sub>
     </td>
   </tr>
-
   <tr>
 
   <td align="center">
@@ -222,7 +220,6 @@ Command your army and lead them to victory and get to the top of the leaderboard
 </b></sub>
     </td>
   </tr>
-
   <tr>
 <td align="center">
 <a href="https://natchaphondev.itch.io/zombie-hunter"><img src="READMEdocs/ZombieHunter.gif" width="400px" height="250px" alt="" /></a>
@@ -243,7 +240,6 @@ And the goal is to survive the zombies as long as possible!
     </td>
 
   </tr>
-
   <tr>
 <td align="center">
 <a href="https://natchaphondev.itch.io/ifitjam2022"><img src="READMEdocs/Mridok.gif" width="400px" height="250px" alt="" /></a>
@@ -262,7 +258,6 @@ In the "back to the future" theme at the start of the game, it's a 2D platformer
 </b></sub>
     </td>
   </tr>
-
   <tr>
 <td align="center">
 <a href="https://natchaphondev.itch.io/a-taxi"><img src="READMEdocs/Taxi.gif" width="400px" height="250px" alt="" /></a>
@@ -300,7 +295,6 @@ you have to complete the number of laps in a race car in the least amount of tim
 </b></sub>
     </td>
     </tr>
-
   <tr>
 <td align="center">
 <a href="https://natchaphondev.itch.io/spaceship"><img src="READMEdocs/Space.gif" width="400px" height="250px" alt="" /></a>
