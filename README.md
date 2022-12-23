@@ -1,21 +1,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Natchaphon Sirisangsawang's Portfolio</h1>
+  <h1 align="center"> Natchaphon Sirisangsawang's Portfolio </h1>
 
   <p align="center">
     Natchaphon Sirisangsawang website/portfolio : 
     <a href="https://natchaphon-gamedev.github.io/Portfolio/">Natchaphon React Portfolio || Template by hashirshoaeb✨</a>
-    <br />
-    <br />
   </p>
+<h1 align="center">
+
+[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsp.gamedev@gmail.com?subject)
+[![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/natchaphon.sirisangsawang/)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pruek_ns/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
+
+<br>
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
-
-<a href="https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/"><img src="https://icons8.com/icon/RjyJigAbeJlA/linkedin-circled" alt="LinkedIn"/></a>
-
-[![LinkedIn](READMEdocs/Icons/icons8-linkedin-2.gif)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
-<a target="_blank" href="https://icons8.com/icon/EPGwLJfY346B/linkedin-2">LinkedIn 2</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ## TABLE OF CONTENT
 
