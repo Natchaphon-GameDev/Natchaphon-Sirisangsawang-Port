@@ -4,8 +4,7 @@
   <h1 align="center"> NATCHAPHON SIRISANGSAWANG PORTFOLIO </h1>
 
   <p align="center">
-    MY WEBSITE / ABOUT ME / RESUME : 
-    <a href="https://natchaphon-gamedev.github.io/Portfolio/"> CLICK HERE! </a>
+    <a href="https://natchaphon-gamedev.github.io/Portfolio/">  MY WEBSITE / ABOUT ME / RESUME(Not up to date) </a>
   </p>
 <h3 align="center">
 
@@ -75,16 +74,17 @@
 
 ## SKILL 📖
 
-[![General badge](https://img.shields.io/badge/Unity-Good-green.svg)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/C%23-Good-green)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Roblox-Good-green)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Game_Design-Good-green)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Lua-Good-green)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Java-Medium-yellow)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Firebase-Medium-yellow)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Maya-Medium-yellow)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/Multiplayer-Medium-yellow)](https://shields.io/)<br>
-[![General badge](https://img.shields.io/badge/SQL-Basic-red)](https://shields.io/)<br>
+![General badge](https://img.shields.io/badge/Unity-Good-green.svg)<br>
+![General badge](https://img.shields.io/badge/C%23-Good-green)<br>
+![General badge](https://img.shields.io/badge/Roblox-Good-green)<br>
+![General badge](https://img.shields.io/badge/Game_Design-Good-green)<br>
+![General badge](https://img.shields.io/badge/Lua-Good-green)<br>
+![General badge](https://img.shields.io/badge/Java-Medium-yellow)<br>
+![General badge](https://img.shields.io/badge/Firebase-Medium-yellow)<br>
+![General badge](https://img.shields.io/badge/Maya-Medium-yellow)<br>
+![General badge](https://img.shields.io/badge/Multiplayer-Medium-yellow)<br>
+![General badge](https://img.shields.io/badge/SQL-Basic-red)<br>
+
 
 ## LANGUAGES 🔡
 
