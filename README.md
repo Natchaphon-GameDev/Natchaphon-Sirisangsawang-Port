@@ -7,13 +7,13 @@
     MY WEBSITE / ABOUT ME / RESUME : 
     <a href="https://natchaphon-gamedev.github.io/Portfolio/"> CLICK HERE! </a>
   </p>
-<h1 align="center">
+<h3 align="center">
 
 [![Site preview](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsp.gamedev@gmail.com?subject)
 [![Site preview](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/natchaphon.sirisangsawang/)
 [![Site preview](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pruek_ns/)
 [![Site preview](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natchaphon-sirisangsawang-pruek/)
-</h1>
+</h3>
 
 [![Site preview](/public/social-image.png)](https://natchaphon-gamedev.github.io/Portfolio/)
 
@@ -56,43 +56,40 @@
 - ### HIGH SCHOOL
 
 
-    ### Year 2013 - 2019
+    Year 2013 - 2019
+
     - SUANKULARB WITTAYALAI RANGSIT SCHOOL | THAILAND
-    Eng - Math 
+    - Eng / Math
 
     * GPA : 3.64
 
 - ### BACHELOR'S DEGREE
-
-
     
-    ### Year 2019 - 2022
+
+    Year 2019 - 2022
+
     - BANGKOK UNIVERSITY | THAILAND
     - GAME AND INTERACTIVE MEDIA
 
     * GPA : 3.95
 
-
 ## SKILL 📖
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=red&label=Unity&logo=Unity&logoColor=White&style=for-the-badge&message="Test">
 
-- #### C# ============ Good                                    
-- #### Lua =========== Medium
-- #### Java =========== Medium
-- #### Firebase ======== Medium
-- #### Python ========= Basic
-- #### Database SQL ==== Medium
-- #### Unity =========== Good
-- #### Roblox ========== Medium
-- #### Game Design ==== Good
-- #### Maya =========== Medium
-- #### Multiplayer ==== Medium
-
+[![General badge](https://img.shields.io/badge/Unity-Good-green.svg)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/C%23-Good-green)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Roblox-Good-green)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Game_Design-Good-green)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Lua-Good-green)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Java-Medium-yellow)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Firebase-Medium-yellow)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Maya-Medium-yellow)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/Multiplayer-Medium-yellow)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/SQL-Basic-red)](https://shields.io/)<br>
 
 ## LANGUAGES 🔡
-- #### Thai ============ Native
-- #### English ========== Good
 
+[![General badge](https://img.shields.io/badge/Thai-Native-blue)](https://shields.io/)<br>
+[![General badge](https://img.shields.io/badge/English-Good-good)](https://shields.io/)<br>
 
 ## MY GAME SHOWCASE 🎮
 
