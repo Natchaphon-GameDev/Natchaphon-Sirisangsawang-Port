@@ -113,7 +113,7 @@ Coding For Metaverse is my Internship Project with
 <a href="https://futureskill.co/home" target="_blank"> Future Skill </a> 
 to create a learning platform for children using Roblox as a learning medium. <br> 
 This game teaches the children to understand the principles of game developmentand and can apply the knowledge they received to continue in the game development industry.<br>
-This is my <a href="https://codingformetaverse.com/#roadshow" target="_blank"> My works during internship </a>. <br>
+This is my <a href="https://github.com/Natchaphon-GameDev/IFIT-Roblox-Project" target="_blank"> My works during internship </a>. <br>
 This is <a href="https://codingformetaverse.com/" target="_blank"> Coding For Metaverse website </a>.
 </b></sub>
     </td>
