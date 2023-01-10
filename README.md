@@ -54,16 +54,18 @@
 
 - ### HIGH SCHOOL
 
+<a href="https://www.skr.ac.th/"><img src="READMEdocs/LOGO/skr.png" width="200px" height="200px" alt="" /></a>
 
     Year 2013 - 2019
 
     - SUANKULARB WITTAYALAI RANGSIT SCHOOL | THAILAND
-    - Eng / Math
+    - English-Mathematics
 
     * GPA : 3.64
 
 - ### BACHELOR'S DEGREE
-    
+
+<a href="https://www.bu.ac.th/th/"><img src="READMEdocs/LOGO/BULogo.svg.png" width="200px" height="200px" alt="" /></a>
 
     Year 2019 - 2022
 
@@ -100,8 +102,7 @@ This is a game that my team and I used to develop during college.
     <td align="center">
     <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1"><img src="READMEdocs/Roblox.gif" width="400px" height="250px" alt="" /></a>
         <br />
-<sub><b> <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1" target="_blank"> Coding For Metaverse </a> </b> <br/> DEVELOPER
-
+<sub><b> <a href="https://www.roblox.com/games/9562719523/Coding-for-Metaverse-v0-0-1" target="_blank"> Coding For Metaverse </a> </b> <br/> DEVELOPER / PROGRAMMER
 </sub>
       <br />
     </td>
@@ -180,11 +181,9 @@ came out as a game in the form of placing turrets to survive in each wave and ge
     <td align="center">
 <a href="https://natchaphondev.itch.io/stack-up"><img src="READMEdocs/StackUp.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/stack-up" target="_blank">STACK UP</a></b> <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</sub>
+        <sub><b> <a href="https://natchaphondev.itch.io/stack-up" target="_blank">STACK UP</a></b> <br /> MAIN PROGRAMMER / GAME DIRECTOR </sub>
       <br />
 </td>
-
 <td align="left">
         <sub><b> Stack up was developed with 
 <a href="https://unity.com/" target="_blank"> Unity </a>, 
@@ -200,8 +199,7 @@ Players need to clear each mini game task as fast as possible to bring their nam
   <td align="center">
 <a href="https://natchaphondev.itch.io/twoarmies"><img src="READMEdocs/Twoarmies.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/twoarmies" target="_blank">Twoarmies</a></b> <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</sub>
+        <sub><b> <a href="https://natchaphondev.itch.io/twoarmies" target="_blank">Twoarmies</a></b> <br /> MAIN PROGRAMMER / GAME DIRECTOR</sub>
       <br />
 </td>
 
@@ -221,8 +219,8 @@ Command your army and lead them to victory and get to the top of the leaderboard
 <td align="center">
 <a href="https://natchaphondev.itch.io/zombie-hunter"><img src="READMEdocs/ZombieHunter.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/zombie-hunter" target="_blank"> Zombie Hunter</a></b> <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</sub>
+        <sub><b> <a href="https://natchaphondev.itch.io/zombie-hunter" target="_blank"> Zombie Hunter</a></b> <br /> MAIN PROGRAMMER / GAME DIRECTOR
+</sub>
       <br />
 </td>
 
@@ -241,8 +239,8 @@ And the goal is to survive the zombies as long as possible!
 <td align="center">
 <a href="https://natchaphondev.itch.io/ifitjam2022"><img src="READMEdocs/Mridok.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/ifitjam2022" target="_blank"> มฤดก (Mridok) </a></b> <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</sub>
+        <sub><b> <a href="https://natchaphondev.itch.io/ifitjam2022" target="_blank"> มฤดก (Mridok) </a></b> <br /> MAIN PROGRAMMER / GAME DIRECTOR
+</sub>
       <br />
 </td>
 
@@ -259,8 +257,7 @@ In the "back to the future" theme at the start of the game, it's a 2D platformer
 <td align="center">
 <a href="https://natchaphondev.itch.io/a-taxi"><img src="READMEdocs/Taxi.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/a-taxi" target="_blank"> A Taxi </a></b> <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</sub>
+        <sub><b> <a href="https://natchaphondev.itch.io/a-taxi" target="_blank"> A Taxi </a></b> <br /> MAIN PROGRAMMER / GAME DIRECTOR </sub>
       <br />
 </td>
 
@@ -273,14 +270,13 @@ In which the player will take on the role of a taxi driver to pick up passengers
 Players have to make money from delivering as many passengers as possible within the allotted time.
 </b></sub>
     </td>
-
 </tr>
   <tr>
 <td align="center">
 <a href="https://natchaphondev.itch.io/time2race"><img src="READMEdocs/Time2race.gif" width="400px" height="250px" alt="" /></a>
         <br />
-        <sub><b> <a href="https://natchaphondev.itch.io/time2race" target="_blank"> Time2Race </a></b> <br /> MANAGER / MAIN PROGRAMMER /
-GAME DESIGNER</sub>
+        <sub><b> <a href="https://natchaphondev.itch.io/time2race" target="_blank"> Time2Race </a></b> <br /> MAIN PROGRAMMER / GAME DIRECTOR
+</sub>
       <br />
 </td>
 
@@ -310,3 +306,4 @@ you have to destroy enemy ships and survive at the same time as long as you can,
     </td>
   </tr>
 </table>
+</h3>
